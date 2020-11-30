@@ -1,4 +1,3 @@
     #Kokoa clone 2020 Update
 
-    CSS got so much better!
-    dd
+    HTML & CSS are so much fun!
